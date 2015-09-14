@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/Config.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/DateTimeUtils.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/VkontakteApplication.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/ContentProviderChangeObserver.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/DatabaseUtils.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/IContentChangeObserver.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/MultipleUrisChangeObserver.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/dao/AbstractDAO.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/dao/GroupsDAO.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/dao/Identify.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/dao/NewsFeedDao.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/dao/ProfilesDAO.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/dao/UserDAO.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/data/Attachment.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/data/Genre.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/data/Group.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/data/NewsFeed.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/data/Photo.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/data/Profile.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/data/UserInfo.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/loader/AbstractContentProviderLoader.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/loader/AbstractLoader.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/loader/NewsFeedLoader.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/provider/DatabaseHelper.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/content/provider/VkontakteContentProvider.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/service/LiveLongAndProsperIntentService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/service/VkontakteClientService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/service/background/BackgroundExecutorService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/service/background/BackgroundJob.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/service/background/impl/QueryNewsList.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/AbstractActivity.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/AbstractFragment.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/OnItemClickListener.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/news/ContinueLoadNewsFeedResultReceiver.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/news/LoginStumbFragment.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/news/MainActivity.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/news/NewsDetailsFragment.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/news/NewsFeedAdapter.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/news/NewsListFragemnt.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/news/ReloadNewsFeedResultReceiver.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/flatstack/vkclient/ui/view/FixedRecyclerView.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/menu" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/dimens.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/ids.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml" charset="windows-1251" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
