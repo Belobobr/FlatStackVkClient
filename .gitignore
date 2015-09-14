@@ -37,13 +37,3 @@ build/**
 
 # Other
 clean-src.sh
-
-
-# Gradle
-gradle-app.setting
-.gradletasknamecache
-.gradle/**
-build/**
-
-# Other
-clean-src.sh
